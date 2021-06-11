@@ -1,5 +1,5 @@
 ## Disclaimer
-This is just a slightly modified repository of [DeepFashion_Try_On (ACGPN)](https://github.com/switchablenorms/DeepFashion_Try_On) for inference and visualization. Please refer to the original repository for details.
+This repo is being used for academics study and small academic project. Most of the part might not be working. I will not encourage anyone to use this. This repo is taken from https://github.com/minar09/ACGPN.git If anyone interested please visit here https://github.com/minar09/ACGPN.git.
 
 # Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content, CVPR'20.
 Official code for CVPR 2020 paper 'Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content'.
